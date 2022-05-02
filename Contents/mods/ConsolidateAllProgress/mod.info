@@ -1,0 +1,6 @@
+name=Consolidate All: Partial Progress [41.69]
+id=consolidate_all_partial
+description=Updates the "Consolidate All" action introduced with 41.69 to perform partial progress, when the action is aborted before completion.
+description=E.g. you're consolidating 10 stacks of thread and have to run from Zombies at around 50% progress, it will have merged about half of the stacks, instead of having made no progress at all.
+poster=poster.png
+versionMin=41.69
