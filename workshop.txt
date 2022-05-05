@@ -1,8 +1,10 @@
 version=1
 id=2802925854
-title=Consolidate All: Partial Progress [41.69]
+title=Consolidate All: Partial Progress [41.70]
 description=Updates the "Consolidate All" action introduced with 41.69 to perform partial progress, when the action is aborted before completion.
 description=E.g. you're consolidating 10 stacks of thread and have to run from Zombies at around 50% progress, it will have merged about half of the stacks, instead of having made no progress at all.
+description=
+description=[b]Update 41.70:[/b] the behaviour was changed to stop, once the first stack is full. The mod now restores the original behavior.
 description=
 description=Sources are on [url=https://github.com/Tiax/ZomboidConsolidateAllProgress]Github[/url].
 tags=Build 41
